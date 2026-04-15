@@ -1,11 +1,10 @@
-# 👾 XYRA AI CHAPTER -- OPEN SOURCE SERIES
+# 🚀 XYRA AI
 
 <p align="center">
   <b>Build • Understand • Debug • Scale with AI</b>
 </p>
 
 <div align="center">
-  <!-- XYRA Banner -->
   <img src="./xyra2.png" width="100%" style="max-width: 900px;" />
 </div>
 
@@ -34,24 +33,18 @@
 
 # 🚀 About XYRA AI
 
-**XYRA AI** is a next-generation AI platform for developers.
+XYRA AI is a next-generation AI platform for developers.
 
-It helps you:
 - 🧠 Understand complex codebases instantly  
-- 🐛 Debug errors with intelligent suggestions  
-- 🏗️ Generate system architecture from code  
-- ⚡ Speed up development workflows  
-
-> Think of XYRA as your **AI-powered senior developer assistant**.
+- 🐛 Debug errors intelligently  
+- 🏗️ Generate system architecture  
+- ⚡ Accelerate development workflows  
 
 ---
 
-# 🧠 Core Product: StackLens AI
+# 🧠 XYRA AI (Core Feature)
 
-<p align="center">
-  <!-- 🔥 REPLACE WITH YOUR DEMO GIF -->
-  <img src="https://via.placeholder.com/800x400?text=StackLens+Demo" width="700"/>
-</p>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJmb293YzhtZ3N0bzhkb2o0aHdjYm82MWZkNDU3eDFod2N0aDV1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="260" />
 
 ### 🔍 Codebase Understanding
 
@@ -59,42 +52,32 @@ It helps you:
 - 🗂️ Smart file grouping  
 - ⚙️ Tech stack detection  
 - 🔗 Dependency mapping  
-- 🚀 “Start Here” onboarding  
+- 🚀 “Start Here” onboarding guide  
+
+<br clear="right"/>
 
 ---
 
-### 🐛 Bug Fix Assistant
+# 🐛 Bug Fix Assistant
 
-<p align="center">
-  <!-- 🔥 ADD DEBUG GIF -->
-  <img src="https://via.placeholder.com/600x300?text=Bug+Fix+Demo" width="500"/>
-</p>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FuNHU3NGVoMzV0b3R0bThtYWEzaHBpanJieHk3cDBwN3JvNXU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fqrXU5bfnbQg9bCAKI/giphy.gif" width="260"/>
 
-- Error explanation  
-- AI fixes  
-- File-level suggestions  
+- Paste errors or logs  
+- Get clear explanations  
+- AI-generated fixes  
+- Suggested file locations  
 
----
-
-### 🏗️ Architecture Generator
-
-<p align="center">
-  <!-- 🔥 ADD ARCH GIF -->
-  <img src="https://via.placeholder.com/600x300?text=Architecture+Demo" width="500"/>
-</p>
-
-- System design generation  
-- API mapping  
-- Data flow visualization  
+<br clear="right"/>
 
 ---
 
-# ⚡ How XYRA Works
+# 🏗️ Architecture Generator
 
-```mermaid
-graph TD
-    A["GitHub Repo URL"] --> B["Clone Repository"]
-    B --> C["Parse Files & Structure"]
-    C --> D["AI Processing - OpenAI"]
-    D --> E["Generate Insights"]
-    E --> F["Display in UI"]
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRucGZkNzBqbGk1N3hvcGxmankwNGJoZWg5bTZyN2FocmsydXN2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MqvW2tvxXdCmRUaqYm/giphy.gif" width="260"/>
+
+- Generate system design  
+- API structure insights  
+- Data flow explanation  
+- Full-stack mapping  
+
+<br clear="right"/>
