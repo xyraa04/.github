@@ -1,4 +1,4 @@
-# 🚀 XYRA AI
+# 🚀 XYRA AI CHAPTER --- OPEN SOURCE SERIES
 
 <p align="center">
   <b>Build • Understand • Debug • Scale with AI</b>
