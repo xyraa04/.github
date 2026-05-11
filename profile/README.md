@@ -1,7 +1,7 @@
 # 🚀 XYRA AI CHAPTER --- OPEN SOURCE SERIES
 
 <p align="center">
-  <b>Build • Understand • Debug • Scale with AI</b>
+  <b>Build • Understand • Debug • Scale with AI:</b>
 </p>
 
 <div align="center">
